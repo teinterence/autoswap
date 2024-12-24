@@ -1,5 +1,5 @@
 # Define the input and output file names
-file_A = 'global_swapped.ini'
+file_A = 'global.ini'
 file_B = 'global_en.ini'
 file_output = 'global_added.ini'
 
